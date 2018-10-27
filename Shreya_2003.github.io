@@ -7,7 +7,7 @@
   </head>
 
   <body>
-  <h1>Let It Be</h1>
+  <h1> Let It Be</h1>
   <img src="https://media.pitchfork.com/photos/5929a5eb13d1975652139084/1:1/w_320/a6e2b2b7.jpg" width="230">
   <h3>Songs</h3>
   <ol>
@@ -27,6 +27,7 @@
       <li>"For You Blue</li>
       <li>"Get Back"</li>
   </ol>
+  <a name="abbey"></a>
   <h1>Abbey Road</h1>
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Beatles_-_Abbey_Road.jpg/220px-Beatles_-_Abbey_Road.jpg" width="230">
   <h3>Songs</h3>
@@ -52,6 +53,7 @@
       <li>"The End"</li>
       <li>"Her Majesty"</li>
   </ol>
+  <a name="sgt."></a>
   <h1>Sgt. Pepper's Lonely Hearts Club Band</h1>
   <img src="https://is3-ssl.mzstatic.com/image/thumb/Music/0f/14/81/mzi.rhvwakvf.tif/268x0w.jpg" width=230">
   <h3>Songs</h3>
@@ -73,6 +75,7 @@
       <li>"Sgt. Pepper's Lonely Hearts Club Band"</li>
       <li>"A Day in the Life"</li>
   </ol>
+  <a name="revolver"></a>
   <h1>Revolver</h1>
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Revolver.jpg/220px-Revolver.jpg" width="230">
   <h3>Songs</h3>
@@ -94,7 +97,7 @@
       <li>"Got to Get You Into My Life"</li>
       <li>"Tomorrow Never Knows"</li>
   </ol>
-  <h1>Rubber Soul</h1>
+  <h1 id="rubber">Rubber Soul</h1>
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Rubber_Soul.jpg/220px-Rubber_Soul.jpg" width="230">
   <h3>Songs</h3>
   <ol>
