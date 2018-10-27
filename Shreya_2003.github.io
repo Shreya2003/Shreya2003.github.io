@@ -1,12 +1,21 @@
-# shreya_2003.github.io
 <!DOCTYPE html>
 <html>
   <head>
-    meta charset ="utf-8"
-      <title><h1>The Beatles Albums</h1></title>
+      <style>
+          h1{
+          font-size: 40px; font-weight: bold; text-align: center; background-color: rgb(133, 146, 158)
+          }
+          h2{
+          text-align: center; font-size: 30px; background-color: rgb(133, 146, 158)
+          }
+          body{
+          background-color: rgb(215, 219, 226);
+
+      </style>
   </head>
 
   <body>
+  <h1>The Beatles Albums</h1>
   <h1> Let It Be</h1>
   <img src="https://media.pitchfork.com/photos/5929a5eb13d1975652139084/1:1/w_320/a6e2b2b7.jpg" width="230">
   <h3>Songs</h3>
