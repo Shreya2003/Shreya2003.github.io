@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+      <meta charset="UTF-8">
       <style>
           h1{
           font-size: 40px; font-weight: bold; text-align: center; background-color: rgb(133, 146, 158)
@@ -22,7 +23,7 @@
   <ol>
       <h3><strong>Side One</strong></h3>
       <li>"Two of us"</li>
-      <li>"Dig a Pony<"/li>
+      <li>"Dig a Pony"</li>
       <li>"Across the Universe"</li>
       <li>"I Me Mine"</li>
       <li>"Dig It"</li>
